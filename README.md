@@ -2,11 +2,11 @@
 
 Visual Studio Code官方快捷键查图汉化版
 
-Windows：[汉化版](/Visual-Studio-Code-Keymap-Windows-CN.pdf) [原版](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+Windows：[汉化版](/pdf/Visual-Studio-Code-Keymap-Windows-CN.pdf) [原版](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-Linux：[汉化版](/Visual-Studio-Code-Keymap-Linux-CN.pdf) [原版](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+Linux：[汉化版](/pdf/Visual-Studio-Code-Keymap-Linux-CN.pdf) [原版](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
 
-MacOS：[汉化版](/Visual-Studio-Code-Keymap-MacOS-CN.pdf) [原版](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+MacOS：[汉化版](/pdf/Visual-Studio-Code-Keymap-MacOS-CN.pdf) [原版](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ----
 
